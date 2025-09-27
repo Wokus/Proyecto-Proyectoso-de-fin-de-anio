@@ -12,6 +12,7 @@ Las necesidades resueltas son:
 Para el desarrollo de este proyecto, no se brindó por parte de la institución una letra fija con casos de uso a seguir, sino que el equipo de desarrollo tuvo que analizar la situación del Pañol y entrevistar a los encargados del mismo para poder establecer los requerimientos a cumplir.
 
 
+Para mas información, lea la [documentación oficial](https://drive.google.com/file/d/18gbj0H-NgzLDGl43bYoCIBIBAK4L2ojh/view?usp=sharing). 
 
 
 
